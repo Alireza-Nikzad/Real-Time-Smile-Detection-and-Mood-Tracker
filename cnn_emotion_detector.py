@@ -6,6 +6,7 @@ import numpy as np
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default .xml')
 
 
+
 model = load_model('emotion_model.hdf5', compile=False)
 
 
