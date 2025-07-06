@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "./emo_env/Lib/site-packages"
+  ],
+  "python.defaultInterpreterPath": "./emo_env/Scripts/python.exe"
+}
